@@ -1,0 +1,5 @@
+a = "Rubber is gum\nbut gum is not \"rubber\""
+
+print(a)
+
+# escape sequence characters
